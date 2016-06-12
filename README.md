@@ -1,6 +1,6 @@
 # Docker on Mac
 Follow following steps on MAC to use docer
-1. On mac, you need to create Linux virutal box image. This is required becuase docker server/daemon run on linux kernel only. Use the followin command to create this
+1. On mac, you need to create Linux virtual box image. This is required becuase docker server/daemon run on linux kernel only. Use the followin command to create this
  
   $ docker-machine create --driver virtualbox ashwanir
 
